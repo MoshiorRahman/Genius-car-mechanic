@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/8McRh8w/img6.jpg"
+    },
+    {
+        "id": "2 hour",
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/gV2qRqW/img5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/JvW05JK/A-young-mechanic-is-smiling-to-camera-as-he-works-on-a-car-in-a-garage-repair-shop-He-is-wearing-blu.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/kcvmVjy/Car-mechanic-man-at-the-garage-fixing-the-engine-Hands-of-car-mechanic-with-wrench-in-garage-Close-u.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/cJfBkpj/Car-mechanics-workers-customers-satisfaction-Auto-car-repair-service-center.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "2 hour",
+        "img": "https://i.ibb.co/bByJrYp/ima4.jpg"
+    }
+]
